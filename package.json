@@ -1,0 +1,18 @@
+{
+  "name": "videostreamer",
+  "version": "1.0.0",
+  "description": "video streamer made using MERN stack with a complex backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN",
+    "backend",
+    "video",
+    "streamer",
+    "project"
+  ],
+  "author": "Nihal Mohammad Ali",
+  "license": "ISC"
+}
